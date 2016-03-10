@@ -25,6 +25,7 @@ namespace WebApiPlay.Controllers
         // POST api/values
         public void Post([FromBody]string value)
         {
+            //Add the value to the database
         }
 
         // PUT api/values/5
