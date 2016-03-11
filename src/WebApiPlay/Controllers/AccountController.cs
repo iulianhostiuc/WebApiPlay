@@ -45,6 +45,7 @@ namespace WebApiPlay.Controllers
             }
             private set
             {
+                // First Committ
                 _userManager = value;
             }
         }
